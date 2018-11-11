@@ -1,0 +1,12 @@
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\bin\StudentWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\bin\StudentWebApp.dll
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\bin\StudentWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.dll
+E:\SEIP.NET\Batch 20\2018.11.05\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\bin\StudentWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\bin\StudentWebApp.dll
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\bin\StudentWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.dll
+E:\SEIP.NET\Batch 20\2018.11.07\StudentWebApp\StudentWebApp\obj\Debug\StudentWebApp.pdb
